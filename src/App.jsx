@@ -59,7 +59,7 @@ const SeguirMouse = () => {
         }}
       />
       <button onClick={() => setPermitir(!permitir)}>
-        {permitir ? "Desactivar" : "Activar"} seguir
+        {permitir ? "Desactivar" : "Activar"} Puntero
       </button>
     </>
   );
